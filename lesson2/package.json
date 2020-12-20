@@ -1,6 +1,6 @@
 {
-  "name": "lesson2",
-  "version": "0.0.0",
+  "name": "lesson_2",
+  "version": "0.0.1",
   "description": "学习使用外部模块",
   "main": "app.js",
   "scripts": {
